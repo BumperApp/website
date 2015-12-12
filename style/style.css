@@ -53,7 +53,8 @@ span {
       float: left;
       width: 30%; }
       #landing #content #image img {
-        width: 100%; }
+        width: 75%;
+        float: right; }
 
 @media (max-width: 800px), (max-height: 520px) {
   h1 {
